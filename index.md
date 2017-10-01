@@ -7,5 +7,5 @@ Dot Collect is available on the [Google Play Store](play.google.com/store/apps/d
 
 ### Contact
 Discord: [https://discord.gg/GvCVT6](https://discord.gg/GvCVT6) <br>
-Twitter: [@SeizedPixels](https://twitter.com/SeizedPixels) <br> 
+Twitter: [@SeizedPixels](https://twitter.com/SeizedPixels) <br>
 E-Mail: [jonas@seizedpixels.de](mailto:jonas@seizedpixels.de)     
