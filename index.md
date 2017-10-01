@@ -6,6 +6,6 @@ Dot Collect is a simple and fast-paced arcade game where the goal is to collect 
 Dot Collect is available on the [Google Play Store](play.google.com/store/apps/details?id=de.seizedpixels.dotcollect)  
 
 ### Contact
-Discord: [https://discord.gg/GvCVT6](https://discord.gg/GvCVT6)
+Discord: [https://discord.gg/GvCVT6](https://discord.gg/GvCVT6)  
 E-Mail: [jonas@seizedpixels.de](mailto:jonas@seizedpixels.de)  
-Twitter: [@SeizedPixels](https://twitter.com/SeizedPixels)  
+Twitter: [@SeizedPixels](https://twitter.com/SeizedPixels)    
