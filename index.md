@@ -1,4 +1,5 @@
 ## DotCollect
+<img src="DotCollect3.gif" width="200" align="right">
 Dot Collect is a simple and fast-paced arcade game where the goal is to collect as many dots as possible in a randomly generated circle.  
   
 ### Download
